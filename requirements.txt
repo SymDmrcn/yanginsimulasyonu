@@ -1,0 +1,10 @@
+streamlit
+requests
+numpy
+folium
+streamlit-folium
+matplotlib
+pandas
+scipy
+scikit-learn
+rasterio
