@@ -1,0 +1,11 @@
+streamlit
+requests
+numpy
+folium
+streamlit-folium
+matplotlib
+pandas
+scipy
+scikit-learn
+# rasterio silindi, alttaki kütüphane onun hafif alternatifidir
+rasterio --no-binary=rasterio
