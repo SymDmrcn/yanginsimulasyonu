@@ -7,5 +7,5 @@ matplotlib
 pandas
 scipy
 scikit-learn
-# rasterio silindi, alttaki kütüphane onun hafif alternatifidir
-rasterio --no-binary=rasterio
+# Rasterio'yu binary sürümüyle zorlayarak kuruyoruz
+--only-binary=:all: rasterio
